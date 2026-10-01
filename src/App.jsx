@@ -67,7 +67,7 @@ const  App =() => {
   return (
     <div className="app-container">
       <div className="hero-section">
-        <h1>🔱 Names of Prabhu Bholenath</h1>
+        <h1>🔱 Names of Prabhu Bholenath🔱</h1>
         <p>Explore the divine names of Lord Shiva</p>
 
         <input
